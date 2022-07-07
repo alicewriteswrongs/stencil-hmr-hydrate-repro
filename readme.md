@@ -8,7 +8,7 @@ the Stencil dev server and the `dist-hydrate-script` output target.
 To reproduce do the following to get the repo cloned and running:
 
 ```sh
-git@github.com:alicewriteswrongs/stencil-hmr-hydrate-repro.git
+git clone git@github.com:alicewriteswrongs/stencil-hmr-hydrate-repro.git
 cd stencil-hmr-hydrate-repro
 npm install
 npm start
